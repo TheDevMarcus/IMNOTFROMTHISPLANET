@@ -1,4 +1,1 @@
-notthatbad
-itsover
-iloveyou
-yes
+"notthatbad", "itsover", "iloveyou", "yes"
